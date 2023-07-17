@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+numpy
+scikit-learn==0.24.1
+tensorflow
+h5py
